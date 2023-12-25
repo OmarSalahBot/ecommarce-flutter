@@ -129,7 +129,7 @@ class _AuthCardState extends State<AuthCard>
   final Map<String, String> _authData = {
     'name': '',
     'phone_number': '',
-    'governorate': 'بغداد',
+    'governorate': 'القاهرة',
     'region': '',
     'password': '',
   };
